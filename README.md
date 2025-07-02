@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there I am Arjun Gawande👋</h1>
+<h1 align="center">Hey there I am Arjun Gawande👋</h1>
 
 ###
 
